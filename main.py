@@ -25,8 +25,6 @@ servername = input("[Server Name]: ")
 channelname = input("[Channel Name]: ")
 message = input("[Message]: ")
 
-# MTA1NzY3ODM4MTkxMjcwMzA4Nw.GiYxXZ.YYj3VOEa2UwR3vuQBxosUS30HFFlGaAx_vhwu4
-
 init()
 
 intents = discord.Intents().all()
